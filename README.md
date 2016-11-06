@@ -5,4 +5,4 @@ Not all links and buttons work, the application is still in development. This re
 
 Buttons and figures currently only show a static image, which is currently serving as a placeholder for future implementation of real time stock figures.
 
-The purpose of this repo is to show the general progress of the user UI as development procedes. 
+The purpose of this repo is to show the general progress of the UI as development procedes. 
